@@ -8,7 +8,7 @@ import {Component} from '@angular/core'
         {{pageTitle}}
       </h1>
       <div>
-        My first component
+       <pm-products></pm-products>
       </div>
     </div>
   `
